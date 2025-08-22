@@ -1,0 +1,45 @@
+*{
+    font-family: Arial;
+    font-size: 20px;
+    line-height: 1.5;
+    text-align: justify;
+}
+.container{
+    width: 90%;
+    margin: 0 auto;
+}
+.centralizar{
+    text-align: center;
+    margin: 0 auto;
+}
+.tituloPrincipal{
+    font-size: 40px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    text-shadow: 5px 5px 0 rgba(0, 0, 0, 0.1);
+}
+.negrito{
+    font-weight: bold;
+}
+.cessao4 span{
+    font-style: italic;
+    text-shadow: 5px 5px 0 rgba(0, 0, 0, 0.1);
+}
+.titulo{
+    font-size: 35px;
+}
+.paragrafo-sombra {
+    box-shadow: 0 4px 16px rgba(0,0,0,0.15);
+    padding: 18px;
+    border-radius: 8px;
+    background: #fff;
+    text-shadow: 5px 5px 0 rgba(0, 0, 0, 0.1);
+}
+.link{
+    text-decoration: underline;
+    color: blue;
+}
+.nomeeRA{
+    font-weight: bold;
+    color: #333;
+}
